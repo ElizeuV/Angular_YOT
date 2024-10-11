@@ -1,16 +1,16 @@
 {
   "tasks": [
     {
-      "id": "2",
-      "tarefa": "Estudar C",
-      "categoria": "Worker",
+      "id": "6fe0",
+      "tarefa": "Estudar Angular",
+      "categoria": "trabalho",
       "concluido": true
     },
     {
-      "id": "0ba8",
-      "tarefa": "Termineiii, acabouuu, é do brazilzilzilzilzilzilzill.",
-      "categoria": "trabalho",
-      "concluido": true
+      "id": "acd9",
+      "tarefa": "Estudar Angular",
+      "categoria": "casa",
+      "concluido": false
     }
   ]
 }
