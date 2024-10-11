@@ -1,21 +1,15 @@
 {
   "tasks": [
     {
-      "id": "1",
-      "tarefa": "Estudar C#",
-      "categoria": "faculdade",
-      "concluido": true
-    },
-    {
       "id": "2",
       "tarefa": "Estudar C",
       "categoria": "Worker",
       "concluido": true
     },
     {
-      "id": "3",
-      "tarefa": "Estudar C",
-      "categoria": "Worker",
+      "id": "0ba8",
+      "tarefa": "Termineiii, acabouuu, é do brazilzilzilzilzilzilzill.",
+      "categoria": "trabalho",
       "concluido": true
     }
   ]
